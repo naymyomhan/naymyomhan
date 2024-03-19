@@ -7,7 +7,7 @@ A Full Stack Web Developer from Midgard aka planet C-53 🌍
 
 <!-- TODO: Add last video link -->
 
-- 🔭 I’m currently working at Coder-Verse | [https://app.com.mm](https://app.com.mm/)
+- 🔭 I’m currently working at app.com.mm | [https://app.com.mm](https://app.com.mm/)
 - 🤔 I’m trying to become a software engineer.
 - 📫 How to reach me: naymyomhan@gmail.com.
 - 😄 Pronouns: he/him.
