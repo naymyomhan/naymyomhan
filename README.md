@@ -7,14 +7,13 @@ A Full Stack Web Developer from Midgard aka planet C-53 🌍
 
 <!-- TODO: Add last video link -->
 
-- 🔭 I’m currently working at app.com.mm | [https://app.com.mm](https://app.com.mm/)
+- 🔭 I’m currently working at Coosy | [https://coosy.co.jp](https://coosy.co.jp/)
 - 🤔 I’m trying to become a software engineer.
 - 📫 How to reach me: naymyomhan@gmail.com.
 - 😄 Pronouns: he/him.
 - ⚡ Fun fact: I am single.
-
+https://coosy.co.jp/
 #### I can make cool things with
-
 <!-- TODO: Make technologies links takes you to repositories -->
 
 [![Laravel Badge](https://img.shields.io/badge/-Laravel-fb503b?style=for-the-badge&labelColor=white&logo=laravel&logoColor=fb503b )](#) [![React Badge](https://img.shields.io/badge/-React-20d6ff?style=for-the-badge&labelColor=white&logo=react&logoColor=20d6ff)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=white&logo=node.js&logoColor=3C873A)](#)  [![Flutter Badge](https://img.shields.io/badge/-Flutter-3fa0ee?style=for-the-badge&labelColor=white&logo=flutter&logoColor=3fa0ee )](#) 
