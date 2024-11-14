@@ -2,7 +2,7 @@
 
 A Full Stack Web Developer from Midgard aka planet C-53 🌍
 
-[![Portfolio Badge](https://img.shields.io/badge/-Profile.me-f7c307?style=flat&labelColor=f7c307&logo=react&logoColor=black)](https://www.facebook.com/naymyomhan/)
+[![Portfolio Badge](https://img.shields.io/badge/-Profile.me-f7c307?style=flat&labelColor=f7c307&logo=react&logoColor=black)](https://naymyomhan.me)
 [![Facebook Badge](https://img.shields.io/badge/-naymyomhan-1874ed?style=flat&labelColor=1874ed&logo=facebook&logoColor=white)](https://www.facebook.com/naymyomhan/) [![Mail Badge](https://img.shields.io/badge/-naymyomhan@gmail.com-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:naymyomhan@gmail.com)
 
 <!-- TODO: Add last video link -->
